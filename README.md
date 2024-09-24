@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TestApiFor-Al-Hilal
 # Product API
 
@@ -114,3 +115,6 @@ GET /api/products/export
 Swagger UI доступен по адресу:
 https://localhost:7019/swagger
 Документация API автоматически генерируется Swagger-ом.
+=======
+# TestApiFor-Al-Hilal
+>>>>>>> 48df6259ff854bf391830c37b7964e5807c97e97
